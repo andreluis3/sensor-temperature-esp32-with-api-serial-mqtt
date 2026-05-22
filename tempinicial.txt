@@ -1,0 +1,4 @@
+temperatura inicial é de 22.6 C
+[]
+
+    temperatura inical agora é de 31.6 C
